@@ -5,5 +5,6 @@
 - 🎗️ I'm currently learning how to compress and optimize neural networks for embedded/mobile devices.
 - 🤝 & I'm always open to meaningful collaborations.
 - 😄 Pronouns: He/His
+- 📫 More details: Instagram- https://www.instagram.com/invites/contact/?i=16442okdqulj9&utm_content=1hshkyw
 - 📫 More details: Facebook- https://www.facebook.com/profile.php?id=100010530153878, 
 
