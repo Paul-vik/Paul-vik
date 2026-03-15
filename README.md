@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Computer Science Student currently learning about AI and ML And cloud computing with AWS | Passionate about open source and solving real-world problems |<br>
+I'm Computer Science Student. currently learning about AI and ML And cloud computing with AWS | Passionate about open source and solving real-world problems |<br>
 
 
 ## 🌐 Socials:
