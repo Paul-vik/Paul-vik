@@ -225,11 +225,11 @@ const Paul: Developer = {
 <table>
 <tr>
 <td>🔭 <b>Currently Building</b></td>
-<td>Full-stack production apps with React + Node.js</td>
+<td>Full-stack production apps with React + Node.js, and system App using Python, C++, java</td>
 </tr>
 <tr>
 <td>🌱 <b>Currently Learning</b></td>
-<td>Advanced Three.js, WebGL shaders, TypeScript patterns</td>
+<td>artificial intelligence (AI), deep learning (DL), Machine learning(ML), Advanced Three.js, WebGL shaders, TypeScript patterns</td>
 </tr>
 <tr>
 <td>💬 <b>Ask Me About</b></td>
