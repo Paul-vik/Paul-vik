@@ -386,7 +386,7 @@ const Paul: Developer = {
 
 **📱 Scan my Portfolio**
 
-<img src="Screenshot_2026-07-10-13-13-53-34_680d03679600f7af0b4c700c6b270fe7.jpg" alt="Portfolio QR Code" width="140" />
+<img width="963" height="1105" alt="Screenshot_2026-07-10-13-13-53-34_680d03679600f7af0b4c700c6b270fe7" src="https://github.com/user-attachments/assets/6338da4e-959c-45ee-8b23-39f3f809752c" />
 
 </td>
 <td align="center" valign="middle">
