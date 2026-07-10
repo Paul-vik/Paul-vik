@@ -386,7 +386,7 @@ const Paul: Developer = {
 
 **📱 Scan my Portfolio**
 
-<img width="963" height="1105" alt="Screenshot_2026-07-10-13-13-53-34_680d03679600f7af0b4c700c6b270fe7" src="https://github.com/user-attachments/assets/6338da4e-959c-45ee-8b23-39f3f809752c" />
+<img width="1000" height="1000" alt="IMG_20260710_135025" src="https://github.com/user-attachments/assets/fa343144-b020-4dc7-aa62-18978f7f7f74" />
 
 </td>
 <td align="center" valign="middle">
