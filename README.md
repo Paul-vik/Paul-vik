@@ -10,7 +10,7 @@
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" /> -->
 
-<img width="100%" src="Screenshot_2026-07-10-12-41-27-77_40deb401b9ffe8e1df2f1cc5ba480b12.jpg"  />
+<img width="990" height="193" alt="Screenshot_2026-07-10-12-41-27-77_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/6300af01-e8e2-4851-b8e2-5f7912558eca" />
 
 
 <br/>
