@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<img width="990" height="193" alt="Screenshot_2026-07-10-12-41-27-77_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/6300af01-e8e2-4851-b8e2-5f7912558eca" />
+
 ### About Me :<br><br>* 🔭 **I’m currently working on** building interactive 3D web experiences using Three.js and optimizing my personal Website (`paul02.netlify.app`).<br>* 👯 **I’m looking to collaborate on** open-source frontend projects, innovative UI/UX designs, and creative web animations, and some Python Project.<br>* 🤝 **I’m looking for help with** advanced mathematical concepts for particle systems.<br>* 🌱 **I’m currently learning**, artificial intelligence, machine learning, deep learning, GSAP animations, and deep-diving into interactive 3D/animated web development.<br>* 💬 **Ask me about** HTML, CSS, JavaScript, interactive animations, or how to trigger laptop commands using Python code.<br>* ⚡ **Fun fact** I love experimenting with custom audio triggers in Python—ask me how a simple hand snap can make my laptop listen to my commands!
 
 
@@ -12,7 +15,7 @@
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" /> -->
 
-<img width="990" height="193" alt="Screenshot_2026-07-10-12-41-27-77_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/6300af01-e8e2-4851-b8e2-5f7912558eca" />
+
 
 
 <br/>
