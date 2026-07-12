@@ -2,6 +2,11 @@
 ### About Me :<br><br>* 🔭 **I’m currently working on** building interactive 3D web experiences using Three.js and optimizing my personal Website (`paul02.netlify.app`).<br>* 👯 **I’m looking to collaborate on** open-source frontend projects, innovative UI/UX designs, and creative web animations, and some Python Project.<br>* 🤝 **I’m looking for help with** advanced mathematical concepts for particle systems.<br>* 🌱 **I’m currently learning**, artificial intelligence, machine learning, deep learning, GSAP animations, and deep-diving into interactive 3D/animated web development.<br>* 💬 **Ask me about** HTML, CSS, JavaScript, interactive animations, or how to trigger laptop commands using Python code.<br>* ⚡ **Fun fact** I love experimenting with custom audio triggers in Python—ask me how a simple hand snap can make my laptop listen to my commands!
 
 
+<p align="center">
+  <img src="github-banner.png.png" alt="Mr. Paul's GitHub Banner" width="100%">
+</p>
+
+
 
 <div align="center">
 
